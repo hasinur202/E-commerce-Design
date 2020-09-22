@@ -1,0 +1,15 @@
+1. 1st small heading.
+2. navbar (fixed)
+3. category, slider
+4. flash sale (timer)
+5. advertisement
+6. all categories with image
+7. vendors brand
+8. products
+
+
+
+e-commerce:
+1. https://portotheme.com/html/porto_ecommerce/demo_6/
+2. https://demo.hasthemes.com/safira-preview/safira/index-3.html
+
